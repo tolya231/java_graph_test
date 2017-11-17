@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Task1 {
 
   public static boolean[][] used;
   public static int[][] grid;
